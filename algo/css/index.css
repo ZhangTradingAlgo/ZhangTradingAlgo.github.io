@@ -27,6 +27,10 @@ body {
     color: #777;
 }
 
+.text-white {
+    color: #ffffff;
+}
+
 .text-primary {
     color: #fed136;
 }
@@ -41,7 +45,7 @@ p.med {
 }
 
 p.large {
-    font-size: 22px;
+    font-size: 26px;
 }
 
 
