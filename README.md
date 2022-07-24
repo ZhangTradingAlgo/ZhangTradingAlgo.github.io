@@ -1,1 +1,1 @@
-# Zhang_Trading_Algo
+# ZhangTradingAlgo.github.io
